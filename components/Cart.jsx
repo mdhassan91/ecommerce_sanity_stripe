@@ -50,7 +50,7 @@ const Cart = () => {
         <button
           type="button"
           className="cart-heading"
-          onClick={() => setShowCart(false)}
+          onClick={() => setshowCart(false)}
         >
           <AiOutlineLeft />
           <span className="heading">Your Cart</span>
